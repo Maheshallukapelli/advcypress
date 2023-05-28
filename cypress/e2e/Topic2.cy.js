@@ -8,7 +8,6 @@ describe('Topic02_TestSuite', () => {
       Cypress.Cookies.debug(true)
   
       cy.visit('https://example.cypress.io/commands/cookies')
-  //
       // clear cookies again after visiting to remove
       // any 3rd party cookies picked up such as cloudflare
       cy.clearCookies()
