@@ -1,0 +1,53 @@
+[
+  [
+    101,
+    "UFT",
+    "Microfocus"
+  ],
+  [
+    102,
+    "RFT",
+    "IBM Rational"
+  ],
+  [
+    103,
+    "Selenium",
+    "Selenium HQ"
+  ],
+  [
+    104,
+    "Cypress",
+    "Cypress Org"
+  ],
+  [
+    105,
+    "TestComplete",
+    "Smartbear"
+  ]
+][
+  [
+    101,
+    "UFT",
+    "Microfocus"
+  ],
+  [
+    102,
+    "RFT",
+    "IBM Rational"
+  ],
+  [
+    103,
+    "Selenium",
+    "Selenium HQ"
+  ],
+  [
+    104,
+    "Cypress",
+    "Cypress Org"
+  ],
+  [
+    105,
+    "TestComplete",
+    "Smartbear"
+  ]
+]
